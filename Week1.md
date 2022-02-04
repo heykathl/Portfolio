@@ -12,9 +12,50 @@
 #### This has been achieved through:
 
 1. Creation of the [Boris Bike](https://github.com/heykathl/boris-bikes2) app: Demonstrated feature and unit testing, encapsulation, SRP and completed as part of pair programming.
-2. Attended TDD Workshop: Creation of a [piggy_bank](https://github.com/heykathl/piggy_bank) program which deposited, checked and withdrew funds
+2. Attended TDD Workshop: Creation of a [Piggy Bank](https://github.com/heykathl/piggy_bank) program which deposited, checked and withdrew funds
 3. Attended Debugging Workshop: Completed a debugging exercise FizzBuzz
 3. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge): Demonstrated TDD, encapsulation, SRP and debugging skills
 
 ### Daily Goals
-Refer to Boris Bikes and Daily Goals Notes
+#### Monday 24th January 2022 
+##### Goals:
+* Put all my effort into this course
+* Make the most out of this course
+##### Plan:
+* Take notes of learning objectives
+* Create a portfolio to showcase learning journey
+
+#### Tuesday 25th January 2022 
+##### Goals:
+* Improve on pair-programming since I last did this during the precourse
+* Be able to test drive simple programs
+##### Plan:
+* Work on the Boris Bikes Challenge with my pair
+
+#### Wednesday 26th January 2022 
+##### Goals:
+* Ensure that all learning objectives of the challenges are met
+
+##### Plan:
+* Taking notes of all learning objectives for the Boris Bike challenge and providing evidence that each of these are understood
+* Conduct own research to fully understand any elements that are not familar with
+
+#### Thursday 25th January 2022 
+##### Goals:
+* Test drive a simple program 
+* Better understanding of getters and setters / instance variables
+* Better understanding of ‘subject’ in spec tests
+* Better understanding on behavior and state
+
+##### Plan:
+* Read through RSpec "Subject" pill (https://github.com/makersacademy/course/blob/main/pills/rspec_subject.md)
+* Watch video on instance variables (https://www.youtube.com/watch?v=MfNpf-Bcnm8)
+* Read https://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/45-more-classes/lessons/110-instance-variables
+
+#### Friday 25th January 2022 
+##### Goals:
+* Better understanding of attr_reader
+
+##### Plan:
+* Research on attr_readers (https://www.rubyguides.com/2018/11/attr_accessor/)
+
