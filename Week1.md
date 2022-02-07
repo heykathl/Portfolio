@@ -14,7 +14,7 @@
 1. Creation of the [Boris Bike](https://github.com/heykathl/boris-bikes2) app: Demonstrated feature and unit testing, encapsulation, SRP and completed as part of pair programming.
 2. Attended TDD Workshop: Creation of a [Piggy Bank](https://github.com/heykathl/piggy_bank) program which deposited, checked and withdrew funds
 3. Attended Debugging Workshop: Completed a debugging exercise FizzBuzz
-3. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge): Demonstrated TDD, encapsulation, SRP and debugging skills
+3. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge) which instructed planes to land and takeoff from an airport: Demonstrated TDD, encapsulation, SRP and debugging skills
 
 ### Daily Goals
 #### Monday 24th January 2022 
@@ -35,7 +35,6 @@
 #### Wednesday 26th January 2022 
 ##### Goals:
 * Ensure that all learning objectives of the challenges are met
-
 ##### Plan:
 * Taking notes of all learning objectives for the Boris Bike challenge and providing evidence that each of these are understood
 * Conduct own research to fully understand any elements that are not familar with
@@ -55,7 +54,6 @@
 #### Friday 25th January 2022 
 ##### Goals:
 * Better understanding of attr_reader
-
 ##### Plan:
 * Research on attr_readers (https://www.rubyguides.com/2018/11/attr_accessor/)
 
