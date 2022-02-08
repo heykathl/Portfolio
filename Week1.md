@@ -13,7 +13,7 @@
 
 1. Creation of the [Boris Bike](https://github.com/heykathl/boris-bikes2) app: Demonstrated feature and unit testing (TDD), encapsulation, SRP and completed as part of pair programming.
 2. Attended TDD Workshop: Creation of a [Piggy Bank](https://github.com/heykathl/piggy_bank) program which deposited, checked and withdrew funds
-3. Attended Debugging Workshop: Completed a debugging exercise [FizzBuzz](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_fizzbuzz)
+3. Attended Debugging Workshop: Completed a debugging exercise FizzBuzz
 4. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge) which instructed planes to land and takeoff from an airport: Demonstrated TDD, encapsulation, SRP and debugging skills
 5. Explored [Test driving I](https://github.com/heykathl/dice-game): Learnt the basics of TDD
 6. Completed a [Dice Game](https://github.com/heykathl/dice-game) which rolled multiple dices, to generate a random number 1 - 6 and returns the result: Demonstrated TDD and debugging skills.
@@ -49,13 +49,13 @@
 * Better understanding on behavior and state
 
 ##### Plan:
-* Read through RSpec "Subject" pill (https://github.com/makersacademy/course/blob/main/pills/rspec_subject.md)
-* Watch video on instance variables (https://www.youtube.com/watch?v=MfNpf-Bcnm8)
-* Read https://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/45-more-classes/lessons/110-instance-variables
+* Read through RSpec [Subject](https://github.com/makersacademy/course/blob/main/pills/rspec_subject.md) pill 
+* Watch video on [instance variables](https://www.youtube.com/watch?v=MfNpf-Bcnm8)
+* Read up on [instance variables](https://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/45-more-classes/lessons/110-instance-variables)
 
 #### Friday 25th January 2022 
 ##### Goals:
-* Better understanding of attr_reader
+* Better understanding of attr_reader and attr_accessors
 ##### Plan:
-* Research on attr_readers (https://www.rubyguides.com/2018/11/attr_accessor/)
+* Research on [attr_accessors](https://www.rubyguides.com/2018/11/attr_accessor/)
 
