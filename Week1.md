@@ -11,10 +11,12 @@
 
 #### This has been achieved through:
 
-1. Creation of the [Boris Bike](https://github.com/heykathl/boris-bikes2) app: Demonstrated feature and unit testing, encapsulation, SRP and completed as part of pair programming.
+1. Creation of the [Boris Bike](https://github.com/heykathl/boris-bikes2) app: Demonstrated feature and unit testing (TDD), encapsulation, SRP and completed as part of pair programming.
 2. Attended TDD Workshop: Creation of a [Piggy Bank](https://github.com/heykathl/piggy_bank) program which deposited, checked and withdrew funds
-3. Attended Debugging Workshop: Completed a debugging exercise FizzBuzz
-3. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge) which instructed planes to land and takeoff from an airport: Demonstrated TDD, encapsulation, SRP and debugging skills
+3. Attended Debugging Workshop: Completed a debugging exercise [FizzBuzz](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_fizzbuzz)
+4. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge) which instructed planes to land and takeoff from an airport: Demonstrated TDD, encapsulation, SRP and debugging skills
+5. Explored [Test driving I](https://github.com/heykathl/dice-game): Learnt the basics of TDD
+6. Completed a [Dice Game](https://github.com/heykathl/dice-game) which rolled multiple dices, to generate a random number 1 - 6 and returns the result: Demonstrated TDD and debugging skills.
 
 ### Daily Goals
 #### Monday 24th January 2022 
