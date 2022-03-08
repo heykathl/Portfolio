@@ -14,11 +14,7 @@
 1. Creation of the [Boris Bike](https://github.com/heykathl/boris-bikes2) app: Demonstrated feature and unit testing (TDD), encapsulation, SRP and first part completed as part of pair programming.
 2. Attended TDD Workshop: Creation of a [Piggy Bank](https://github.com/heykathl/piggy_bank) program which deposited, checked and withdrew funds
 3. Attended Debugging Workshop: Completed a debugging exercises [FizzBuzz & Cipher](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_fizzbuzz)
-4. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge) which instruct planes to land and takeoff from an airport: Demonstrated TDD, encapsulation, SRP and debugging skills
-5. Explored [Test driving I](https://hackmd.io/NGdU2pqzSbOng3IwsDTzew): Learnt the basics of TDD
-6. Completed a [Dice Game](https://github.com/heykathl/dice-game) which rolled multiple dices, to generate a random number 1 - 6 and returns the result: Demonstrated TDD and debugging skills.
-7. Completed a [Checkout](https://github.com/heykathl/checkout) program which scans each item and calculates the price: Demonstrated TDD and debugging skills.
-8. Completed a [Car Speed](https://github.com/heykathl/car-speed) exercise to describe a car's speed, acceleration and brake; and [Car Garage](https://github.com/heykathl/car-garage) exercise to add, find and remove cars based on the number plate and make: Demonstrated understanding of Classes and testing state and behaviour
+4. Attempt at the weekend [Airport Challenge](https://github.com/heykathl/airport_challenge) which instructs planes to land and takeoff from an airport: Demonstrated TDD, encapsulation, SRP and debugging skills
 
 ### Daily Goals
 #### Monday 24th January 2022 

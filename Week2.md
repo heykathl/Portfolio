@@ -15,7 +15,7 @@
 1. Creation of the [Oystercard](https://github.com/heykathl/oystercard) app: Demonstrated feature and unit testing, extracting class, mocking and completed as part of pair programming.
 2. Attended Code Review and Process Workshops: Observing another person's coding process, and reviewing another person's code and spec files ([Airport Challenge](https://github.com/makersacademy/airport_challenge/pull/2461)). Provide feedback including comments through GitHub.
 3. Attended Domain Modelling Workshop: Illustrated Unified Markup Language (UML) Class Diagrams which provided a higher level thinking, than TDD. 
-3. Attempt at the weekend [Takeaway Challenge](https://github.com/heykathl/takeaway-challenge) to view, select and confirm taekaway food orders: Demonstrated the use of a UML, TDD, encapsulation and debugging skills.
+3. Attempt at the weekend [Takeaway Challenge](https://github.com/heykathl/takeaway-challenge) to view, select and confirm takeaway food orders: Demonstrated the use of a UML, TDD, encapsulation and debugging skills.
 
 ### Daily Goals
 #### Monday 28th February 2022 
