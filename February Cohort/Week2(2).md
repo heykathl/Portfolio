@@ -12,8 +12,8 @@
 
 #### This has been achieved through:
 
-1. Creation of the [Oystercard](https://github.com/heykathl/oystercard2) app: Demonstrated feature and unit testing, extracting class, mocking and completed as part of pair programming.
-2. Attended Code Review and Process Workshops: Observing another person's coding process, and reviewing another person's code and spec files ([Airport Challenge](https://github.com/makersacademy/airport_challenge/pull/2485)). Provide feedback including comments through GitHub.
+1. Creation of the [Oystercard](https://github.com/heykathl/oystercard2) app: Demonstrated feature and unit testing, extracting classes, SRP,mocking and completed as part of pair programming.
+2. Attended Code Review and Process Workshops: Observing another person's coding process, and reviewing another person's code and spec files ([Airport Challenge](https://github.com/makersacademy/airport_challenge/pull/2485)). Provided meaningful feedback including comments through GitHub.
 3. Attended Mocking and Isolation Workshop: Worked through the [Mocking 1](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/mocking_1)exercises.
 4. Attended Domain Modelling Workshop: Illustrated Unified Markup Language (UML) Class Diagrams which provided a higher level thinking, than TDD. 
 5. Attempt at the weekend [Takeaway Challenge](https://github.com/heykathl/takeaway-challenge) to view, select and confirm taekaway food orders: Demonstrated the use of a UML, TDD, SRP, encapsulation and debugging skills.
