@@ -38,7 +38,7 @@
 ##### Goals:
 * Consolidate this weeks learning
 ##### Plan:
-* Attempt working on the birthday tracker practical
+* Attempt at the birthday tracker practical
 
 #### Thursday 10th March 2022 
 ##### Goals: 

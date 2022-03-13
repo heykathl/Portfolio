@@ -16,6 +16,8 @@
 2. Attended Code Review and Process Workshops: Observing another person's coding process, and reviewing another person's code and spec files ([Airport Challenge](https://github.com/makersacademy/airport_challenge/pull/2485)). Provided meaningful feedback including comments through GitHub.
 3. Attended Mocking and Isolation Workshop: Worked through the [Mocking 1](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/mocking_1)exercises.
 4. Attended Domain Modelling Workshop: Illustrated Unified Markup Language (UML) Class Diagrams which provided a higher level thinking, than TDD. 
+<img width="930" alt="Screenshot 2022-03-13 at 23 29 27" src="https://user-images.githubusercontent.com/74867241/158083933-9275c30c-0e05-45be-a356-1ad9f0327fa9.png">
+
 5. Attempt at the weekend [Takeaway Challenge](https://github.com/heykathl/takeaway-challenge) to view, select and confirm taekaway food orders: Demonstrated the use of a UML, TDD, SRP, encapsulation and debugging skills.
 5. Explored [Test driving I](https://hackmd.io/NGdU2pqzSbOng3IwsDTzew): Learnt the basics of TDD
 6. Completed a [Dice Game](https://github.com/heykathl/dice-game) which rolled multiple dices, to generate a random number 1 - 6 and returns the result: Demonstrated TDD and debugging skills.
