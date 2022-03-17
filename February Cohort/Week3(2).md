@@ -9,10 +9,25 @@
 * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 * Explain the MVC pattern
 
-#### This has been achieved through:
+### Concepts and Skills
+#### Concepts
+- The relationship between a client and a server.
+- How HTTP is used to send information over the web.
+- RESTful APIs.
+- The request/response cycle.
+- Web templating with HTML/CSS.
+
+#### Skills
+- Debugging programs that use multiple languages.
+- Using a framework (Sinatra) in your code.
+- Structuring the code for apps that have user interaction and visual output.
+- Testing apps that have user interaction and visual output.
+- Tracing data between the browser and server.
+
+### This has been achieved through:
 
 1. Creation of the [Battle](https://github.com/heykathl/battle2) game: Demonstrated get/post requests, HTML and CSS, debugging web applications; and understanding of the MVC pattern, completed as part of pair programming.
-2. Completed a Code Review: Reviewing another person's code and test files ([Takeaway Challenge](https://github.com/makersacademy/takeaway-challenge/pull/2208). Provide feedback including comments through GitHub.
+2. Completed a Code Review: Reviewing another person's code and test files ([Takeaway Challenge](https://github.com/makersacademy/takeaway-challenge/pull/2208). Provided feedback including comments through GitHub.
 3. Attended HTTP Process Modelling workshop: Demonstrated process modeling to describe and understand the HTTP process requests and responses.
 ![Screenshot 2022-03-08 at 11 40 44](https://user-images.githubusercontent.com/74867241/157252940-b5658048-31e7-4275-b916-4aa7a6cc780b.png)
 4. Attended Debugging Web Apps workshop: Completed a debugging exercise [Debugging a web app](https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/debugging_2)
