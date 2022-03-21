@@ -39,10 +39,10 @@
 
 ### This has been achieved through:
 
-1. Creation of the [Bookmark Manager](https://github.com/heykathl/bookmark_manager) web application: Demonstrated get/post requests, HTML and CSS, debugging web applications, an understanding of the MVC pattern, use of SQL and databases, completed as part of pair programming.
+1. Creation of the [Bookmark Manager](https://github.com/heykathl/bookmark-manager.git) web application: Demonstrated get/post requests, HTML and CSS, debugging web applications and databases, an understanding of the MVC pattern, use of SQL and databases, completed as part of pair programming.
 2. Completed a Code Review: Reviewing another person's code and test files ([Rock Paper Scissors Challenge](https://github.com/makersacademy/rps-challenge/pull/2075). Provided feedback including comments through GitHub.
-3. Attended the Database modelling workshop: Modelled out databases and its different types of relationships.
-4. Creation of a [Chitter](https://github.com/heykathl/ ) web application as part of the weekend challenge: Demonstrated get/post requests, HTML and CSS, debugging web applications, an understanding of the MVC pattern, and use of SQL and databases.
+3. Attended the Database modelling workshop: Modelled out databases and its different types of relationships seen [here](https://github.com/heykathl/Portfolio/blob/cf4c26d8ede07e62812f169472a6ae3fc3ca5021/Notes/Database_modelling.md).
+4. Attempt at the [Chitter](https://github.com/heykathl/chitter-challenge.git) web application as part of the weekend challenge: Demonstrated get/post requests, HTML and CSS, debugging web applications and databases, an understanding of the MVC pattern, use of SQL and databases.
 
 ### Daily Goals
 #### Monday 14th March 2022 
@@ -59,10 +59,9 @@
 * Understanding of the RESTful convention
 * Better understanding between the relationship between the MVC and databases
 ##### Plan:
-* Read up on [Singleton Classes](http://leohetsch.com/demystifying-ruby-singleton-classes/)
-* Read up on [How to apply singleton classes and why to avoid it](https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/)
-* Read up on [REST](https://github.com/makersacademy/course/blob/main/pills/rest.md)
-* Develop a flow chart / modelling of the Bookmark Manager challenge
+* Read up on [Singleton Classes](http://leohetsch.com/demystifying-ruby-singleton-classes/), and [How to apply singleton classes and why to avoid it](https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/)
+* Read up on [REST](https://github.com/makersacademy/course/blob/main/pills/rest.md), [Principles of good RESTful API Design](https://codeplanetio.wordpress.com/2013/12/31/principles-good-restful-api-design/), and [Sinatra Restful Routes Readme](https://learn.co/lessons/sinatra-restful-routes-readme)
+* Develop a flow chart / modelling of the Bookmark Manager challenge (found in the [README](https://github.com/heykathl/bookmark-manager/blob/404eaffbe6b72e4eba9739dc167e2698c5c4db16/README.md)).
 
 #### Wednesday 16th March 2022 
 ##### Goals:
@@ -70,6 +69,7 @@
 * Familiarise myself with sql queries (specifically the JOIN query)
 ##### Plan:
 * Complete [Database Modelling](https://github.com/makersacademy/skills-workshops/blob/main/how_databases_work/modelling_a_db_without_crc_cards/README.md) exercises
+* Work through the [SQL tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) and/or [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 #### Thursday 17th March 2022 
 ##### Goals: 
@@ -79,6 +79,9 @@
 
 #### Friday 18th March 2022 
 ##### Goals:
-* 
+* Better understanding of Sinatra's configuring settings, specifically method override
+* Consolidate learning from this week
 ##### Plan:
-*
+* Make a start on the Chitter weekend challenge
+
+

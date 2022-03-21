@@ -8,6 +8,14 @@ An exercise to learn three things:
 2. Model a database to comply to user stories.
 3. Explore different ways data can be stored and compare their merits.
 
+## Three types of database relationships
+
+### One-to-one relationships
+### One-to-many relationships
+### Many-to-many relationships
+
+Databases relationships - https://github.com/makersacademy/course/blob/main/pills/db_relationships.md
+
 ```
 As a coach
 So I can get to know all students
@@ -44,6 +52,7 @@ I want to tag a student with many named tags (like "happy" or "ok")
 <img width="636" alt="Screenshot 2022-03-17 at 11 42 55" src="https://user-images.githubusercontent.com/74867241/158801438-f72d488c-f250-4f3a-80bd-b7b3170f3313.png">
 As you can see highlighted in red, I was unsure how to complete this user story.
 
+
 ```
 As a coach
 So I can see students with the same tag
@@ -63,3 +72,4 @@ As a coach
 So I can get an overview of how students are feeling
 I want to see an average of the day ratings for each student
 ```
+
