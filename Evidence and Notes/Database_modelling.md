@@ -11,10 +11,19 @@ An exercise to learn three things:
 ## Three types of database relationships
 
 ### One-to-one relationships
-### One-to-many relationships
-### Many-to-many relationships
+When each record of one table is related to only one record of the other table
+For example, there are two entities (Person: Id, Name, Age, Address) and (Passport: Passport_id, Passport_no). Each person can only have one passport and each passport belongs to only one person.
+These relationships are used for security purposes which may store sensitive data, hidden from certain users. 
 
-Databases relationships - https://github.com/makersacademy/course/blob/main/pills/db_relationships.md
+### One-to-many relationships
+When each record of the one table of one table can be related to one or more than one record of another table. 
+In a relational database system, a one-to-many table relationship links two tables based on a Foreign Key column in the child which references the Primary Key of the parent table row.
+For example, a Customer entity can have more than one Account entity, however an Account entity can is only associated with one Customer.
+
+### Many-to-many relationships
+When each record of the first table can be related to one or more than one record of the second table. 
+In a relational database system, a many to many table relationship would link two parent tables which would contain two foreign key columns, which references the primary key of the two parent tables. 
+For example, a Blog Post entity would have have tags and a Tag entity would have many blog posts. 
 
 ```
 As a coach
