@@ -172,6 +172,7 @@ Bracket notation:
 * OK — obj["1prop"], obj["prop name"]
 
 ### Classes
+Classes in JS work in a similar way to other languages, they are declared with methods — and perhaps attributes — and can be instantiated when creating instances. 
 
 
 

@@ -17,6 +17,7 @@ Looking at the data contained in the variables in the code you're trying to unde
 
 ### Exercise
 
+I will now demonstrate how I worked through this debugging exercise. 
 I was presented with a broken code below:
 
 ```
@@ -43,14 +44,14 @@ for (let i = 1; i <= 100; i++) {
   console.log(fizzBuzz.play(5));
 }
 ```
-I ran `node fizzbuzz.js` to understand what was going wrong and was presented with the following error message:
+Before running node, I noticed on line 3 which states: `let otherNumber = number - 50;` would not be associated with the fizzbuzz challenge. Although I knew this was not the correct thing to do in a debugging exercise, as I knew what the program does, I decided to comment this line out. I proceed to run `node fizzbuzz.js` and was presented with the following error message:
 ```
 console.log(fizzBuzz.play(5));
               ^
 
 ReferenceError: fizzBuzz is not defined
 ```
-This shows that it does not understand what fizzBuzz is. As shown in the code, there is `new FizzBuzz();` which is not allocated to any variable, however it was used in the for loop. I amended this to `const fizzBuzz = new Fizzbuzz();`. I ran node and was presented with another error (this meant that this error was fixed):
+This shows that it does not understand what fizzBuzz is. As shown in the code, there is `new FizzBuzz();` which is not allocated to any variable, however it was used in the for loop. I amended this to `const fizzBuzz = new Fizzbuzz();`. I ran node and was presented with another error (this meant that the previous error had been fixed):
 ```
 if (this._isDivisibleBy(15, number)) {
              ^
@@ -102,3 +103,6 @@ for (let i = 1; i <= 100; i++) {
   console.log(fizzBuzz.play(i));
 }  
 ```   
+
+## Takeaway
+I found this quite difficult at the beginning given that we've just begun learning Javascript earlier this week. However, as I was vaguely familiar with what the code was doing, due to working with FizzBuzz many times before, this helped me work through the exercise. I understand that I did not follow the standard convention of debugging, as outlined above where I commented out line 3 prior to running node. This is something I need to be mindful of for the future. Overall, it was a very helpful exercise to understand the flow of execution within a Javascript program and practicing on tightening the loop. 

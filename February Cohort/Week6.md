@@ -11,25 +11,34 @@
 
 ### This has been achieved through:
 
-1. 
+1. Worked through the [Fundamentals of Javscript](https://github.com/heykathl/javascript-fundamentals): Applied a cohorent process to learn a new language and demonstrated understanding of asynchronous programming.
+2. Attended the Javascript Debugging workshop: 
+3. Attempt at the [Bowling]( ) application as part of the weekend challenge in Javascript.
 
 ### Daily Goals
 #### Monday 28th March 2022  
 ##### Goals:
 * Consolidate end of unit learning
 ##### Plan:
-* Continue working on bowling weekend challenge
+* Continue working on the bowling weekend challenge
 
 #### Tuesday 29th March 2022 
 ##### Goals:
-* 
+* Apply a coherent process to learn a new language
+* Work on basic TDD
+##### Plan:
+* Compiled notes on the [Javascript Fundamentals](https://github.com/heykathl/Portfolio/blob/main/Evidence%20and%20Notes/Javascript_fundamentals.md)
+* Complete codewars katas
+
+#### Wednesday 30th March 2022 
+##### Goals:
+* Debugging Javascript programs
 ##### Plan:
 * 
 
-#### Wednesday 30th March 2022 
 #### Thursday 31st March 2022 
 ##### Goals:
-* Work on this weeks group project
+* 
 
 #### Friday 1st April2022 
 

@@ -13,7 +13,7 @@
 ### This has been achieved through:
 
 1. Creation of the [MakersBnB](https://github.com/heykathl/MakersBnB) web application: Demonstrated use of git workflow, ran standups and retrospectives, built to specifications(user stories) and broke down project into tasks
-2. Attempt at the [Bowling](https://github.com/heykathl/bowling-challenge-ruby?organization=heykathl&organization=heykathl) web application as part of the weekend challenge: 
+2. Attempt at the [Bowling](https://github.com/heykathl/bowling-challenge-ruby?organization=heykathl&organization=heykathl) application as part of the weekend challenge: 
 
 ### Daily Goals
 #### Monday 21st March 2022  
