@@ -172,8 +172,47 @@ Bracket notation:
 * OK — obj["1prop"], obj["prop name"]
 
 ### Classes
-Classes in JS work in a similar way to other languages, they are declared with methods — and perhaps attributes — and can be instantiated when creating instances. 
+Classes work in a similar way to other languages, they are declared with methods — and perhaps attributes — and can be instantiated when creating instances. They are a kind of function. 
+```
+class User {
+  constructor(name) {
+    this.name = name;
+  };
 
+  getName() {
+    return this.name;
+  };
+
+  getIntroduction() {
+    return `Hi, my name is ${this.name}`;
+  };
+};
+
+let user = new User('Jim')
+user.getName()
+<!-- this will return Jim -->
+user.getIntroduction() 
+<!-- this will return Hi, my name is Jim -->
+
+```
+The constructor method is a special method of a class for creating and initializing an object instance of that class. This is similar to the initialize method within Ruby. A constructor enables you to provide any custom initialization that must be done before any other methods can be called on an instantiated object.
+
+### JEST tests
+Mocking
+```
+const candy = ["Mars", 5.99;]
+candy.getPrice(); // '5.99'
+
+// let's now mock .getPrice()
+
+const candyDouble = { getPrice: () => 5.99 };
+
+// so we can call candyDouble.getPrice()
+// which means it's a drop-in replacement for "real" object,
+// *as long as we only want* to use .tgetPrice()) on it.
+```
+
+### Difference between Javascript and Ruby
 
 
 
