@@ -54,6 +54,3 @@
 * Consolidate learning from this week's challenge
 ##### Plan:
 * Make a start on the weekend challenge
-
-TODO
-Testing behaviour not state - https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md

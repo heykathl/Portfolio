@@ -1,6 +1,6 @@
 ## Week 10
 
-[Weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/)
+[Weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/)\
 [Individual technical challenges](https://github.com/makersacademy/course/tree/main/individual_challenges)
 
 ### Weekly goals
@@ -10,15 +10,13 @@ Ask yourself the same two questions:
 * Are you a better developer than you were yesterday?
 
 By the end of the engineering project, the goal is to be able to answer "yes" to the primary question:
-* Can you solve a challenging technical problem by writing well crafted code?
-By "well crafted code", we mean code that is well tested, easy to read and easy to change.
-
+* Can you solve a challenging technical problem by writing well crafted code? By "well crafted code", we mean code that is well tested, easy to read and easy to change.
 * Feel more confident in your ability to complete a tech test.
 * Have developed a structured process to approaching complex problems, utilising TDD and good OO design skills.
 
 ### This has been achieved through:
 * Completion of the [Bank Tech Test](https://github.com/heykathl/bank-tech-test).
-* Attempt at the [Gilded Rose Tech Test](https://github.com/heykathl/gilded-rose-tech-test)
+* Attempt at the [Gilded Rose Tech Test](https://github.com/heykathl/gilded-rose-tech-test).
 
 ### Daily Goals
 #### Monday 25th April 2022
