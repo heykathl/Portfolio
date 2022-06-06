@@ -32,7 +32,7 @@ Process model the following scenarios.
 * Mouse clicks or other user actions.
 * What is displayed in the browser.
 
-Visiting the home page
+_Visiting the home page_\
 A user visits `https://makers-cats.herokuapp.com/` and they are shown this HTML:
 ```
 <!DOCTYPE html>
@@ -51,7 +51,7 @@ A user visits `https://makers-cats.herokuapp.com/` and they are shown this HTML:
 
 ```
 
-Home page with typo
+_Home page with typo_\
 A user tries to visit `https://makers-cats.herokuapp.com/`, but mistypes the URL as `https://makers-rats.herokuapp.com/` in their browser.
 At first they don't see the page they expect. When they fix their typo to the correct home page URL, they are shown this HTML:
 
@@ -72,7 +72,7 @@ At first they don't see the page they expect. When they fix their typo to the co
 
 ```
 
-Cat page
+_Cat page_\
 A user clicks the `a cat pic` link and is shown this HTML:
 
 ```
@@ -91,7 +91,7 @@ A user clicks the `a cat pic` link and is shown this HTML:
 
 Don't forget to model the `cat.jpg` request and response.
 
-Mailing list page
+_Mailing list page_\
 A user clicks the `list` link and is shown this HTML:
 
 ```
