@@ -73,6 +73,7 @@ I would like a count of how many students are signed in
 ```
 
 Complete a domain model for these requirements.
+
 <img width="640" alt="Screen Shot 2022-06-06 at 7 07 22 pm" src="https://user-images.githubusercontent.com/74867241/172219808-e11320e2-86b2-4604-8060-02b0bf98ac4e.png">
 
 * Avoid two way dependency between classes
