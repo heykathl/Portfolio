@@ -1,28 +1,29 @@
 # Test Driven Development
 
 ### Why are tests useful?
-Runs without errors
-Produces the desired output
-Code quality (Linters)
-Understand and clarify user requirements
-Opportunity to find missing requirements 
-Provides confidence when making changes
-Test coverage - confirm all functional code has been tested and helps find non-functional code
-Documentation
+- Runs without errors
+- Produces the desired output
+- Code quality (Linters)
+- Understand and clarify user requirements
+- Opportunity to find missing requirements 
+- Provides confidence when making changes
+- Test coverage - confirm all functional code has been tested and helps find non-functional code
+- Documentation
 
 ### Why must we write tests first?
-Only write what is necessary
-Structured code to ensure the each line of the tests are met - incremental changes
-Sticks to specifications
-Clarify requirements
-Think about the code
-Efficient - catching bus before they appear
-Test is the destination - planning ahead
-Design tool, design incremental
-Ensuring good code coverage
+- Only write what is necessary
+- Structured code to ensure the each line of the tests are met - incremental changes
+- Sticks to specifications
+- Clarify requirements
+- Think about the code
+- Efficient - catching bus before they appear
+- Test is the destination - planning ahead
+- Design tool, design incremental
+- Ensuring good code coverage
 
 ### TDD Process
-<Insert diagram of TDD process>
+![Screen Shot 2022-06-06 at 7 04 42 pm](https://user-images.githubusercontent.com/74867241/172219401-54a5f5b4-b058-4265-881a-4c07574bcc87.png)
+
 The three laws of TDD:
 1. You are not allowed to write any production code unless it is to make a failing unit test pass.
 2. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
