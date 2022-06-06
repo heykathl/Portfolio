@@ -1,8 +1,8 @@
 ## Week 8 and 9
 
-[Weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/)
-[Engineering Project](https://github.com/makersacademy/course/tree/main/simple/engineering_projects)
-[Acebook]seed(https://github.com/makersacademy/acebook-node-template)
+[Weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/) \
+[Engineering Project](https://github.com/makersacademy/course/tree/main/simple/engineering_projects) \
+[Acebook seed project](https://github.com/makersacademy/acebook-node-template) 
 
 ### Weekly goals
 
@@ -14,7 +14,16 @@ By the end of the engineering project, the goal is to be able to answer "yes" to
 * Can you use high-quality processes to build a project in a team?
 
 ### This has been achieved through:
-* Completion of the [Acebook](https://github.com/heykathl/acebook-code-baddiez) program, which allows users to sign up, login, create and view posts and comments, like posts and comments, direct message another user, create, view and edit profiles, add or remove a friend, receive notifications. This website is hosted on Heroku and can be viewed here: [Koala](koala-acebook.herokuapp.com)
+* Completion of the [Koala](https://github.com/heykathl/koala) program, which allows users to sign up, login, create and view posts and comments, like posts and comments, direct message another user, create, view and edit profiles, add or remove a friend, receive notifications.\
+This website is hosted on Heroku and can be viewed here: [Koala](koala-acebook.herokuapp.com)
+
+- As identified in our [Team Charter](https://docs.google.com/document/d/13yi709ax4nmfTG9J0F57yEFpYRH7fdtczwvVJCrNIsM/edit), we followed agile methodologies to keep ourselves and the project on track.
+- We planned our project by [mindmapping](https://drive.google.com/drive/folders/17h7f3xi684vGdI-1A-TWZHPgGlUHghDN), identifying our MVP, 'should have' features and 'nice to have' features. 
+- We illustrated [mockups](https://docs.google.com/document/d/1QNjlGm_OZzhZsb3hfTHnvAFLCzUsRM4VPBc7CVaEdlw/edit) to help visualise what our website would look like.
+- We developed a [Trello board](https://trello.com/b/P8lEsvZe/acebook) to manage our workflow.
+- We developed a total of 25 [user stories](https://docs.google.com/document/d/1C3tJRKvtsoDsRU2eGSfa9V9UEnQX2g2TjYArErtkNhQ/edit). 
+- In addition to the Trelloboard, we created issues on GitHub and linked it with each pull request that was uploaded to the repository. 
+- We had bi-daily standups which have been documented [here](https://drive.google.com/drive/folders/1vmw7bW-BinU4MhLJ_JV3EnzQST6eGVQV) and a retrospective at the end of each day. This ensures that every member is aware of the tasks and the deadlines they're required to complete it by.
 
 ### Daily Goals
 #### Monday 11th April 2022
